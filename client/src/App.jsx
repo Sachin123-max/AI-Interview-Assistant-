@@ -12,7 +12,7 @@ import InterviewHistory from './pages/InterviewHistory'
 import InterviewReport from './pages/InterviewReport'
 
 
-export const ServerUrl = "http://localhost:8000"
+export const ServerUrl = "https://ai-interview-assistant-7foy.onrender.com"
 
 const App = () => {
   const dispatch = useDispatch()
